@@ -1,26 +1,41 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
+<pre><code class="language-yaml">
+name: Koushik Saha
+located_in: Kolkata, West Bengal, India
+current_job: Key Relationship Manager
+education:
+  [
+    "Self-Taught Developer and Designer",
+    "B.Sc.(IT)",
+    "Higher Diploma in Software Engineering"
+  ]
+company: Aditya Birla Health Insurance Co. Ltd.
 
-<!--
-**kppp27github/kppp27github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<pre><code>
-  user_details{
-    name: Koushik Saha,
-    github_user_name: kppp27github,
-    email_id: mail2kpp27@gmail.com,
-    phone_number: "+91-9851182515",
-    location: kolkata,
-  }
+fields_of_interests:
+  [
+    "Web Development",
+    "Data Science",
+    "Machine Learning",
+    "UI/UX",
+    "Game Development",
+    "DevOps",
+  ]
+technical_background:
+  [
+    "Full Stack Developer"
+    "DevOps Solutions Architect",
+    "Intern - Data Science & Machine Learning in Python",
+    "Intern - Internet Of Things",
+    "Intern - VLSI and FPGA Implementation",
+  ]
+  
+currently_learning: ["Docker, Kubernetes, and React Native"]
+2025 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
+hobbies: ["Programming", "Photography"]
 </code></pre>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>

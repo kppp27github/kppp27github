@@ -46,8 +46,8 @@ technical_background:
 currently_learning: ["Docker, Kubernetes, and React Native"]
 2025 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
 hobbies: ["Programming", "Photography"]
-</code></pre>
+</code></pre-->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p-->
+</p>

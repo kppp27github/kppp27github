@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<pre><code>
+  user_details{
+    name: Koushik Saha,
+    github_user_name: kppp27github,
+    email_id: mail2kpp27@gmail.com,
+    phone_number: "+91-9851182515",
+    location: kolkata,
+  }
+</code></pre>

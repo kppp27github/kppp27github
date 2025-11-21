@@ -80,6 +80,23 @@ currently_learning:
   - "DevOps Solutions Architect"
   - "Data Science & Machine Learning in Python"
 
+professional_fields_of_interest:
+  software_development: "Leveraging your programming languages (Python, Java, JavaScript, C#, C++, C, PHP) and knowledge of software development concepts like data structures, algorithms, and REST APIs."
+
+  web_development: "Utilizing skills in HTML, CSS, Bootstrap, React, React Native, and Node.js to build and maintain modern responsive websites and web applications."
+
+  mobile_application_development: "Focusing on building native and cross-platform mobile apps using React Native and React Native Expo."
+
+  data_science_and_machine_learning: "Applying Python-based data science and machine learning techniques, supported by knowledge of data formats like JSON, XML, YAML, alongside ML frameworks."
+
+  devops_and_cloud_engineering: "Engaging with Docker, Kubernetes, and DevOps Solutions Architect skills for containerization, orchestration, continuous integration/delivery, and cloud infrastructure management."
+
+  database_management: "Working with both relational (MySQL) and NoSQL (MongoDB) databases, including expertise in SQL querying."
+
+  ui_ux_design_and_development: "Collaborating on user interface and user experience through tools like Figma, combining design sensitivity with front-end development skills."
+
+  cross_platform_development: "Combining your web, mobile, and backend skills to create integrated applications across platforms efficiently."
+
 goal_of_the_year: "Successfully transition from a non-technical profession to a software developer role by acquiring relevant technical skills, gaining practical experience through projects, and securing a developer position."
 
 hobbies:

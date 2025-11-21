@@ -80,7 +80,7 @@ currently_learning:
   - "DevOps Solutions Architect"
   - "Data Science & Machine Learning in Python"
 
-goal_of_the_year: "Successfully transition from a non-technical profession to a software developer role by acquiring relevant technical skills, building practical experience through projects, and securing a developer position."
+goal_of_the_year: "Successfully transition from a non-technical profession to a software developer role by acquiring relevant technical skills, gaining practical experience through projects, and securing a developer position."
 
 hobbies:
   - "Coding"

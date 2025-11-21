@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Hello!&fontColor=F0F0F0&fontSize=60&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&text=Hello!&fontSize=32&fontAlign=50&fontAlignY=32&fontColor=F0F0F0&animation=fadeIn)
 
 ```python
 # User information ..
@@ -10,3 +10,5 @@ class UserInfo:
 user_info : UserInfo = UserInfo()
 
 ```
+
+![footer](https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&text=Hello!&fontSize=32&fontAlign=50&fontAlignY=32&fontColor=F0F0F0&animation=fadeIn&section=footer)

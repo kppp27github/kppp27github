@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&text=Hi,%20Folks!&fontSize=32&fontAlign=50&fontAlignY=32&fontColor=F0F0F0&animation=fadeIn)
-___
+
 #### A Little Bit About Me
 ###### Education, Fields of Interests, Technical Knowledges and Hobbies
 

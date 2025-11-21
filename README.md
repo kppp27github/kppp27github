@@ -47,6 +47,10 @@ technical_knowledge:
     - "react native expo"
     - "node.js"
 
+  mobile_application_development:
+    - "react native"
+    - "react native expo"
+
   databases:
     - "mysql (relational)"
     - "mongodb (noSQL)"

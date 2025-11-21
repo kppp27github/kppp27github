@@ -29,14 +29,14 @@ fields_of_interests:
   - "UI/UX"
 
 technical_knowledge:
-  programming_Languages:
-    - "Python"
-    - "Java"
-    - "JavaScript"
-    - "C#"
-    - "C++"
-    - "C"
-    - "PHP"
+  programming_languages:
+    - "python"
+    - "java"
+    - "javascript"
+    - "c#"
+    - "c++"
+    - "c"
+    - "php"
 
   web_development:
     - "html"
@@ -48,9 +48,9 @@ technical_knowledge:
     - "node.js"
 
   databases:
-    - "mySQL (relational)"
-    - "mongoDB (noSQL)"
-    - "SQL (query language for relational databases)"
+    - "mysql (relational)"
+    - "mongodb (noSQL)"
+    - "sql (query language for relational databases)"
 
   data_formats_and_configuration:
     - "xml"
@@ -61,8 +61,8 @@ technical_knowledge:
     - "vs code (source code editor)"
     - "neovim (text editor, highly configurable)"
     - "git (version control system)"
-    - "gitHub (code hosting and collaboration platform)"
-    - "figma (Collaborative UI/UX design tool)"
+    - "github (code hosting and collaboration platform)"
+    - "figma (collaborative UI/UX design tool)"
 
   operating_systems_and_environments:
     - "windows"
@@ -82,6 +82,7 @@ hobbies:
   - "Coding"
   - "Photography"
   - "Watching movie"
+
 ```
 ___
 #### 🚀 Some Tools I Have Used and Learned

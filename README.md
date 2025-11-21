@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%!)
+![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Hello!&fontColor=F0F0F0&fontSize=60&animation=fadeIn)
 
 ```python
 # User information ..

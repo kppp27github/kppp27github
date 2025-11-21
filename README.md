@@ -6,7 +6,7 @@
 ```yaml
 name: "Koushik Saha"
 email_id: "mail2kppp27@gmail.com"
-phone_no: "+91-98511-82515"
+phone_no: "+91-98511 82515"
 
 located_in:
   - city: "Kolkata"
@@ -28,16 +28,19 @@ fields_of_interests:
   - "Machine Learning"
   - "UI/UX"
 
-technical_background:
-  - "Full Stack Developer"
-  - "DevOps Solutions Architect"
+technical_knowledge:
+  - languages:
+    - "python"
+    - "java"
+    - "c++"
+    - "c"
+    - "javascript"
   - "Data Science & Machine Learning in Python"
-  - "Internet Of Things"
   
 currently_learning:
   - "Docker"
   - "Kubernetes"
-  - "React Native"
+  - "DevOps Solutions Architect"
 
 hobbies:
   - "Coding"

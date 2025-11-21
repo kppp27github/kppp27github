@@ -32,7 +32,7 @@ technical_knowledge:
   programming_languages:
     - "Python"
     - "Java"
-    - "Javascript"
+    - "JavaScript"
     - "C#"
     - "C++"
     - "C"
@@ -60,9 +60,9 @@ technical_knowledge:
     - "YAML"
 
   development_tools_and_editors:
-    - "VS code (Source code editor)"
+    - "VS Code (Source code editor)"
     - "Neovim (Text editor, highly configurable)"
-    - "GIT (Version control system)"
+    - "Git (Version control system)"
     - "GitHub (Code hosting and collaboration platform)"
     - "Figma (Collaborative UI/UX design tool)"
 

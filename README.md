@@ -6,10 +6,16 @@
 ```yaml
 name: "Koushik Saha"
 email_id: "mail2kppp27@gmail.com"
-phone_no: "+91 - 98511 82515"
-located_in: "Kolkata, West Bengal, India"
+phone_no: "+91-98511-82515"
+
+located_in:
+  - city: "Kolkata"
+  - area_pincode: "700030"
+  - srate: "West Bengal"
+  - country: "India"
+
 current_job: "Key Relationship Manager"
-company: "Aditya Birla Health Insurance Co. Ltd."
+company_name: "Aditya Birla Health Insurance Co. Ltd."
 
 education:
   - "Self-Taught Developer and Designer"

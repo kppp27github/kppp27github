@@ -29,12 +29,14 @@ fields_of_interests:
   - "UI/UX"
 
 technical_knowledge:
-  languages:
-    - "python"
-    - "java"
-    - "c++"
-    - "c"
-    - "javascript"
+  - Programming Languages:
+    "Python"
+    "Java"
+    "JavaScript"
+    "C#"
+    "C++"
+    "C"
+    "PHP"
 
 currently_learning:
   - "Docker"

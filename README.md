@@ -30,57 +30,57 @@ fields_of_interests:
 
 technical_knowledge:
   programming_languages:
-    - "python"
-    - "java"
-    - "javascript"
-    - "c#"
-    - "c++"
-    - "c"
-    - "php"
+    - "Python"
+    - "Java"
+    - "Javascript"
+    - "C#"
+    - "C++"
+    - "C"
+    - "PHP"
 
   web_development:
-    - "html"
-    - "css"
-    - "bootstrap"
-    - "react"
-    - "react native"
-    - "react native expo"
-    - "node.js"
+    - "HTML"
+    - "CSS"
+    - "Bootstrap"
+    - "React"
+    - "React Native"
 
   mobile_application_development:
-    - "react native"
-    - "react native expo"
+    - "React Native"
+    - "React Native Expo"
 
   databases:
-    - "mysql (relational)"
-    - "mongodb (noSQL)"
-    - "sql (query language for relational databases)"
+    - "MySQL (Relational)"
+    - "MongoDB (NoSQL)"
+    - "SQL (Query language for relational databases)"
 
   data_formats_and_configuration:
-    - "xml"
-    - "json"
-    - "yaml"
+    - "XML"
+    - "JSON"
+    - "YAML"
 
   development_tools_and_editors:
-    - "vs code (source code editor)"
-    - "neovim (text editor, highly configurable)"
-    - "git (version control system)"
-    - "github (code hosting and collaboration platform)"
-    - "figma (collaborative UI/UX design tool)"
+    - "VS code (Source code editor)"
+    - "Neovim (Text editor, highly configurable)"
+    - "GIT (Version control system)"
+    - "GitHub (Code hosting and collaboration platform)"
+    - "Figma (Collaborative UI/UX design tool)"
 
   operating_systems_and_environments:
-    - "windows"
-    - "linux"
+    - "Windows"
+    - "Linux"
 
   software_development_and_computer_science_concepts:
-    - "dsa (data structures and algorithms)"
-    - "rest api (representational state transfer, web service architecture)"
+    - "DSA (Data structures and algorithms)"
+    - "REST API (Representational state transfer, web service architecture)"
 
 currently_learning:
   - "Docker"
   - "Kubernetes"
   - "DevOps Solutions Architect"
   - "Data Science & Machine Learning in Python"
+
+goal_of_the_year: "Successfully transition from a non-technical profession to a software developer role by acquiring relevant technical skills, building practical experience through projects, and securing a developer position."
 
 hobbies:
   - "Coding"

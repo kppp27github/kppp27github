@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&text=Hello,%20glad%20you're%20here.&fontSize=32&fontAlign=50&fontAlignY=32&fontColor=F0F0F0&animation=fadeIn)
 
 #### A Little Bit About Me
-###### Education, Fields of Interests, Technical Knowledges, Current Goals and Hobbies
+###### Education, Technical Knowledge, Current Learning, Professional Fields of Interest, Current Goals and Hobbies
 
 ```yaml
 name: "Koushik Saha"

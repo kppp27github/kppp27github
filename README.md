@@ -35,12 +35,12 @@ technical_knowledge:
     - "c++"
     - "c"
     - "javascript"
-  - "Data Science & Machine Learning in Python"
 
 currently_learning:
   - "Docker"
   - "Kubernetes"
   - "DevOps Solutions Architect"
+  - "Data Science & Machine Learning in Python"
 
 hobbies:
   - "Coding"

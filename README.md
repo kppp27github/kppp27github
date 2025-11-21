@@ -29,14 +29,48 @@ fields_of_interests:
   - "UI/UX"
 
 technical_knowledge:
-  - Programming Languages:
-    "Python"
-    "Java"
-    "JavaScript"
-    "C#"
-    "C++"
-    "C"
-    "PHP"
+  programming_Languages:
+    - "Python"
+    - "Java"
+    - "JavaScript"
+    - "C#"
+    - "C++"
+    - "C"
+    - "PHP"
+
+  web_development:
+    - "html"
+    - "css"
+    - "bootstrap"
+    - "react"
+    - "react native"
+    - "react native expo"
+    - "node.js"
+
+  databases:
+    - "mySQL (relational)"
+    - "mongoDB (noSQL)"
+    - "SQL (query language for relational databases)"
+
+  data_formats_and_configuration:
+    - "xml"
+    - "json"
+    - "yaml"
+
+  development_tools_and_editors:
+    - "vs code (source code editor)"
+    - "neovim (text editor, highly configurable)"
+    - "git (version control system)"
+    - "gitHub (code hosting and collaboration platform)"
+    - "figma (Collaborative UI/UX design tool)"
+
+  operating_systems_and_environments:
+    - "windows"
+    - "linux"
+
+  software_development_and_computer_science_concepts:
+    - "dsa (data structures and algorithms)"
+    - "rest api (representational state transfer, web service architecture)"
 
 currently_learning:
   - "Docker"

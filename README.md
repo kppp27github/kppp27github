@@ -1,21 +1,42 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&text=Hello!&fontSize=32&fontAlign=50&fontAlignY=32&fontColor=F0F0F0&animation=fadeIn)
-### Given my intro in the below program
-###### Code written in Python
-```python
-# User information ..
+#### A Little Bit About Me
+###### Education, Field of interests, Technical knowledges and Hobbies
 
-from typing import Dict
+```yaml
+name: "Koushik Saha"
+email_id: "mail2kppp27@gmail.com"
+phone_no: "+91 - 98511 82515"
+located_in: "Kolkata, West Bengal, India"
+current_job: "Key Relationship Manager"
 
-class UserInfo:
-	def __init__(self) -> None:
-		self.name : str = "Koushik Saha"
+education:
+  - "Self-Taught Developer and Designer"
+  - "Bachelor's in Information Technology"
+  - "Higher Diploma in Software Engineering from NIIT"
 
-	def educational_info(self) -> Dict[str, str]:
-		educationalData : Dict[str, str] = {"graduation" : "B.SC.(IT)", "certificate" : "Higher Diploma in Software Engineering"}
+company: "Aditya Birla Health Insurance Co. Ltd."
 
-user_info : UserInfo = UserInfo()
+fields_of_interests:
+  - "Web Development"
+  - "Data Science"
+  - "Machine Learning"
+  - "UI/UX"
 
+technical_background:
+  - "Full Stack Developer"
+  - "DevOps Solutions Architect"
+  - "Data Science & Machine Learning in Python"
+  - "Internet Of Things"
+  
+currently_learning:
+  - "Docker"
+  - "Kubernetes"
+  - "React Native"
 
+hobbies:
+  - "Coding"
+  - "Photography"
+  - "Watching movie"
 ```
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&fontSize=32&fontAlign=50&fontAlignY=32&fontColor=F0F0F0&animation=fadeIn&section=footer)

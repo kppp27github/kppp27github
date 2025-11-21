@@ -8,13 +8,12 @@ email_id: "mail2kppp27@gmail.com"
 phone_no: "+91 - 98511 82515"
 located_in: "Kolkata, West Bengal, India"
 current_job: "Key Relationship Manager"
+company: "Aditya Birla Health Insurance Co. Ltd."
 
 education:
   - "Self-Taught Developer and Designer"
   - "Bachelor's in Information Technology"
   - "Higher Diploma in Software Engineering from NIIT"
-
-company: "Aditya Birla Health Insurance Co. Ltd."
 
 fields_of_interests:
   - "Web Development"

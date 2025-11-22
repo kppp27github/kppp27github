@@ -106,10 +106,11 @@ hobbies:
 
 ```
 ___
-#### 🚀 Some Tools I Have Used and Learned
+#### 🚀 Some Tools and Programming Languages I Have Used and Learned
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/java/java-original-wordmark.svg" alt="java" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="cLang" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
@@ -127,7 +128,15 @@ ___
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/reactnative/reactnative-original-wordmark.svg" alt="react native" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/github/github-original-wordmark.svg" alt="github" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/csharp/csharp-original.svg" alt="c sharp" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/yaml/yaml-original.svg" alt="yaml" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/json/json-original.svg" alt="json" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/xml/xml-original.svg" alt="xml" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/neovim/neovim-original-wordmark.svg" alt="neovim" width="45" height="45"/>
+
 </p>
 
 

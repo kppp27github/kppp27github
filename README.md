@@ -22,12 +22,6 @@ education:
   - "Bachelor's in Information Technology"
   - "Higher Diploma in Software Engineering from NIIT"
 
-fields_of_interests:
-  - "Web Development"
-  - "Data Science"
-  - "Machine Learning"
-  - "UI/UX"
-
 technical_knowledge:
   programming_languages:
     - "Python"
